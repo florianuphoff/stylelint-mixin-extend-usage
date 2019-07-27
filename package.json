@@ -1,0 +1,33 @@
+{
+  "name": "stylelint-mixin-extend-usage",
+  "version": "0.0.1",
+  "description": "A stylelint plugin to gather information about the usage of mixins and extends",
+  "license": "MIT",
+  "repository": "florianuphoff/stylelint-mixin-extend-usage",
+  "author": "Florian Uphoff <florianuphoff@mailbox.org>",
+  "homepage": "https://github.com/florianuphoff/stylelint-mixin-extend-usage",
+  "main": "index.js",
+  "engines": {
+    "node": ">= 12.5.0"
+  },
+  "files": [
+    "lib/",
+    "index.js"
+  ],
+  "keywords": [
+    "css",
+    "scss",
+    "sass",
+    "stylelint",
+    "lint",
+    "linter",
+    "plugin",
+    "stylelint-plugin"
+  ],
+  "peerDependencies": {
+    "postcss": "^7.0.17",
+    "stylelint": "^10.1.0"},
+  "dependencies": {
+  },
+  "devDependencies": {}
+}
