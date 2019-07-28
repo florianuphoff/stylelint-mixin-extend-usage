@@ -26,8 +26,8 @@
   ],
   "peerDependencies": {
     "postcss": "^7.0.17",
-    "stylelint": "^10.1.0"},
-  "dependencies": {
+    "stylelint": "^10.1.0"
   },
+  "dependencies": {},
   "devDependencies": {}
 }
