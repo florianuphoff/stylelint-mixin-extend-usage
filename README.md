@@ -39,12 +39,20 @@ This plugin reports the following findings:
   @extend placeholder2;
 }
 ```
+* Declaration of a placeholder
+```scss
+%placeholder {
+  color: #F00;
+}
+```
+
 * Declaration of a mixin
 ```scss
 @mixin simple($w: 1px) {
   width: $w;
 }
 ```
+
 * Usage of mixin
 ```scss
 .example {
