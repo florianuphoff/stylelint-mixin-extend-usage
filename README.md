@@ -1,4 +1,6 @@
 # Purpose
+[![NPM version](https://img.shields.io/npm/v/stylelint-mixin-extend-usage.svg)](https://www.npmjs.com/package/stylelint-mixin-extend-usage)
+[![Downloads per month](https://img.shields.io/npm/dm/stylelint-mixin-extend-usage.svg)](http://npmcharts.com/compare/stylelint-mixin-extend-usage)
 
 This stylelint plugin is part of a (s)css analysis. It's used by the plugin [stylelint-code-quality-config](https://www.npmjs.com/package/stylelint-code-quality-config).
 Of course you can use it for your stylelint config, too. See instructions below.

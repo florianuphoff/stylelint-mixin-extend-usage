@@ -7,6 +7,9 @@
   "author": "Florian Uphoff <florianuphoff@mailbox.org>",
   "homepage": "https://github.com/florianuphoff/stylelint-mixin-extend-usage",
   "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
   "engines": {
     "node": ">= 12.5.0"
   },
@@ -25,5 +28,8 @@
   ],
   "peerDependencies": {
     "stylelint": "^10.1.0"
+  },
+  "devDependencies": {
+    "stylelint-test-rule-tape": "^0.2.0"
   }
 }
